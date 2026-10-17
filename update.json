@@ -1,26 +1,41 @@
 {
-  "versionCode": 220,
-  "versionName": "2.2.1",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/Noor-2.2.0.apk",
-  "apkSha256": "f7d36c0fe2579c7d0a3a6b3c8b461303d01148599a2f80cd618987483638e09f",
-  "notes": "اسمك بيظهر على الشاشة تاني (الصوت مش بيناديك بيه)",
+  "versionCode": 230,
+  "versionName": "2.3.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/Noor-2.3.0.apk",
+  "apkSha256": "824d2a7c149f30e729d022121a6d1ddde3d7b0325472e5e569eb1ab6e1c5abaf",
+  "notes": "تلاوة متواصلة، الشريط عداد سرعة، نغمات راقية، +٦٠٠ حكمة بتزيد يوميًا، ٥ دروس كل يوم، مساج الفروة بالصور",
   "web": {
-    "build": 221,
-    "version": "2.2.1",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.1/noor-web-2.2.1.zip",
-    "sha256": "a5c1336e9629d19b555c77a97fde1ab1b90114604258f18b95d6610567585b11",
-    "minNative": 220
+    "build": 230,
+    "version": "2.3.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/noor-web-2.3.0.zip",
+    "sha256": "8d25925395a4651b2e9bc3773de19fef71713cf3788518b28fa098c2c526a283",
+    "minNative": 230
   },
   "whatsNew": [
     [
-      "✍️",
-      "اسمك رجع على الشاشة — والصوت مش بيناديك بيه"
+      "📖",
+      "تلاوة متواصلة + الشريط الأصفر عداد سرعة"
+    ],
+    [
+      "🔔",
+      "٨ نغمات راقية تختار منها"
+    ],
+    [
+      "📜",
+      "أكتر من ٦٠٠ حكمة بتزيد يوميًا + قلب ونسخ"
+    ],
+    [
+      "🧠",
+      "٥ دروس جديدة كل يوم"
+    ],
+    [
+      "💆",
+      "مساج الفروة بالصور"
+    ],
+    [
+      "🎙️",
+      "الأصوات المصرية الجديدة جاية في تحديث صغير"
     ]
   ],
-  "voices": {
-    "eg_f": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-eg_f.zip",
-    "eg_m": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-eg_m.zip",
-    "gulf_m": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-gulf_m.zip",
-    "sa_f": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-sa_f.zip"
-  }
+  "voices": {}
 }
