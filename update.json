@@ -1,24 +1,46 @@
 {
-  "versionCode": 210,
-  "versionName": "2.1.1",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.1.0/Noor-2.1.0.apk",
-  "apkSha256": "9fc0f8d739350fabc1711500805e625a7612ed05ae71fa106ae7b3a4f35a0b47",
-  "notes": "تظبيط شكل شاشة «الجديد في نور» وحجم الأيقونات",
+  "versionCode": 220,
+  "versionName": "2.2.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/Noor-2.2.0.apk",
+  "apkSha256": "f7d36c0fe2579c7d0a3a6b3c8b461303d01148599a2f80cd618987483638e09f",
+  "notes": "أصوات بشرية وصوت الشيخ، أذان مشاري، المصحف يمشي لوحده وبحث، مستويات العقل، الشعر، تحديث تلقائي",
   "web": {
-    "build": 211,
-    "version": "2.1.1",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.1.1/noor-web-2.1.1.zip",
-    "sha256": "c4b56ee58584d367ed99fe2ef647aa4e852391cb2bfff82d9d6c25f0111a1c9a",
-    "minNative": 210
+    "build": 220,
+    "version": "2.2.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/noor-web-2.2.0.zip",
+    "sha256": "850c8d05754e907bb8a4ad12d514415ea54ed855e9e5b616bf19cf17c4296171",
+    "minNative": 220
   },
   "whatsNew": [
     [
-      "🎁",
-      "شاشة «الجديد في نور» اتظبطت: سهم صغير وكلام واضح"
+      "🎙️",
+      "أصوات بشرية بتشكيل صحيح وصوت الشيخ"
     ],
     [
-      "🔧",
-      "تحسين حجم الأيقونات في كل التطبيق"
+      "🕌",
+      "أذان مشاري العفاسي"
+    ],
+    [
+      "📖",
+      "المصحف يمشي لوحده + بحث بالآية أو الكلمة"
+    ],
+    [
+      "🧠",
+      "مستويات العقل والتنفس والتأمل وتحليل النوم"
+    ],
+    [
+      "💆",
+      "قسم الشعر وتذكير مساج الوش"
+    ],
+    [
+      "🔄",
+      "تحديث تلقائي وإشعار بالإصدار الجديد"
     ]
-  ]
+  ],
+  "voices": {
+    "eg_f": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-eg_f.zip",
+    "eg_m": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-eg_m.zip",
+    "gulf_m": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-gulf_m.zip",
+    "sa_f": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/voice-sa_f.zip"
+  }
 }
