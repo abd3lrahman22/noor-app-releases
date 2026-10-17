@@ -1,40 +1,20 @@
 {
   "versionCode": 220,
-  "versionName": "2.2.0",
+  "versionName": "2.2.1",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/Noor-2.2.0.apk",
   "apkSha256": "f7d36c0fe2579c7d0a3a6b3c8b461303d01148599a2f80cd618987483638e09f",
-  "notes": "أصوات بشرية وصوت الشيخ، أذان مشاري، المصحف يمشي لوحده وبحث، مستويات العقل، الشعر، تحديث تلقائي",
+  "notes": "اسمك بيظهر على الشاشة تاني (الصوت مش بيناديك بيه)",
   "web": {
-    "build": 220,
-    "version": "2.2.0",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.0/noor-web-2.2.0.zip",
-    "sha256": "850c8d05754e907bb8a4ad12d514415ea54ed855e9e5b616bf19cf17c4296171",
+    "build": 221,
+    "version": "2.2.1",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.2.1/noor-web-2.2.1.zip",
+    "sha256": "a5c1336e9629d19b555c77a97fde1ab1b90114604258f18b95d6610567585b11",
     "minNative": 220
   },
   "whatsNew": [
     [
-      "🎙️",
-      "أصوات بشرية بتشكيل صحيح وصوت الشيخ"
-    ],
-    [
-      "🕌",
-      "أذان مشاري العفاسي"
-    ],
-    [
-      "📖",
-      "المصحف يمشي لوحده + بحث بالآية أو الكلمة"
-    ],
-    [
-      "🧠",
-      "مستويات العقل والتنفس والتأمل وتحليل النوم"
-    ],
-    [
-      "💆",
-      "قسم الشعر وتذكير مساج الوش"
-    ],
-    [
-      "🔄",
-      "تحديث تلقائي وإشعار بالإصدار الجديد"
+      "✍️",
+      "اسمك رجع على الشاشة — والصوت مش بيناديك بيه"
     ]
   ],
   "voices": {
