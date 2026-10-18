@@ -1,24 +1,20 @@
 {
-  "versionCode": 241,
-  "versionName": "2.4.3",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.1/Noor-2.4.1.apk",
-  "apkSha256": "5a20a9c2b1f7edfe422e6189ee8f42cf0d655c9af3b17837b9e65295bfe0500d",
-  "notes": "أول دفعة من الصوت المصري، والصفحة الرئيسية أخف",
+  "versionCode": 250,
+  "versionName": "2.5.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.0/Noor-2.5.0.apk",
+  "apkSha256": "a9a793aee4c88a8b09a7ab7407e499a1ac7f9067ad89ec6037868e672ade6444",
+  "notes": "خلوة الصلاة: شاشة ابدأ الصلاة فوق التطبيقات والموبايل صامت نص ساعة ويرجع لوحده",
   "web": {
-    "build": 243,
-    "version": "2.4.3",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.3/noor-web-2.4.3.zip",
-    "sha256": "bcd1890315ad6fe36c95ed4af56f1f9b687144c9193b16e2fccc5aa612cb8a75",
-    "minNative": 241
+    "build": 250,
+    "version": "2.5.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.0/noor-web-2.5.0.zip",
+    "sha256": "f4ba948faa4729cc2e81636f7925ef63d56ffe92f183c28945b151a86550cc37",
+    "minNative": 250
   },
   "whatsNew": [
     [
-      "🎙️",
-      "أول دفعة من الصوت المصري (عربي بس)"
-    ],
-    [
-      "🏠",
-      "الصفحة الرئيسية أخف وأوضح"
+      "🕌",
+      "خلوة الصلاة: شاشة «ابدأ الصلاة» والموبايل صامت نص ساعة"
     ]
   ],
   "voices": {},
