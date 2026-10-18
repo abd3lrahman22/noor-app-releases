@@ -1,33 +1,42 @@
 {
-  "versionCode": 230,
-  "versionName": "2.3.4",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/Noor-2.3.0.apk",
-  "apkSha256": "824d2a7c149f30e729d022121a6d1ddde3d7b0325472e5e569eb1ab6e1c5abaf",
-  "notes": "لون زمرد ورملي و٧ ألوان في الإعدادات، صفحة رئيسية جديدة، الحكم بأقسام، و٣٩ كتاب جديد",
+  "versionCode": 240,
+  "versionName": "2.4.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.0/Noor-2.4.0.apk",
+  "apkSha256": "99539e87f662c237f7f72be6e7604040788e56b7432f5e4be85853c727890c9e",
+  "notes": "أيقونة النون الجديدة، الأذكار صفحات، تصنيف الجسم وسجل الوزن، رئة التنفس، نغمات حقيقية، وإضافة كتب من هنداوي",
   "web": {
-    "build": 234,
-    "version": "2.3.4",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.4/noor-web-2.3.4.zip",
-    "sha256": "e6ac646d0b73cbb41a7d0e5febe1e8d4ffe57c0d1db94307fa7785766d18c1a8",
-    "minNative": 230
+    "build": 240,
+    "version": "2.4.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.0/noor-web-2.4.0.zip",
+    "sha256": "c85a3d38a415d7ca490d1d0f9ad89f1694724129877dedb4058986921b54df56",
+    "minNative": 240
   },
   "whatsNew": [
     [
-      "🎨",
-      "لون زمرّد ورملي + ٧ ألوان في الإعدادات"
+      "✨",
+      "أيقونة النون الجديدة بلون زمرّد"
     ],
     [
-      "🏠",
-      "صفحة رئيسية أحلى"
+      "📿",
+      "الأذكار صفحات زي حصن المسلم"
     ],
     [
-      "📜",
-      "الحكم بأقسام والجديد فوق"
+      "⚖️",
+      "تصنيف جسمك وسجل وزنك برسم"
+    ],
+    [
+      "🫁",
+      "تنفس برئة بتتملي هوا"
+    ],
+    [
+      "🔔",
+      "نغمات من آلات حقيقية"
     ],
     [
       "📚",
-      "٣٩ كتاب إدارة وريادة وعلم نفس"
+      "ضيف كتاب من هنداوي"
     ]
   ],
-  "voices": {}
+  "voices": {},
+  "voiceList": []
 }
