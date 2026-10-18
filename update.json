@@ -1,20 +1,20 @@
 {
   "versionCode": 250,
-  "versionName": "2.5.0",
+  "versionName": "2.5.1",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.0/Noor-2.5.0.apk",
   "apkSha256": "a9a793aee4c88a8b09a7ab7407e499a1ac7f9067ad89ec6037868e672ade6444",
-  "notes": "خلوة الصلاة: شاشة ابدأ الصلاة فوق التطبيقات والموبايل صامت نص ساعة ويرجع لوحده",
+  "notes": "تذكير الأذكار أهدى: مرة بالصوت وتذكير صغير واحد بعدها",
   "web": {
-    "build": 250,
-    "version": "2.5.0",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.0/noor-web-2.5.0.zip",
-    "sha256": "f4ba948faa4729cc2e81636f7925ef63d56ffe92f183c28945b151a86550cc37",
+    "build": 251,
+    "version": "2.5.1",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.1/noor-web-2.5.1.zip",
+    "sha256": "e5338079135ab404d7945b87eb6c3d92e3af3ef3894ed8ca0bfe6d1eff78d1b8",
     "minNative": 250
   },
   "whatsNew": [
     [
-      "🕌",
-      "خلوة الصلاة: شاشة «ابدأ الصلاة» والموبايل صامت نص ساعة"
+      "☀️",
+      "تذكير الأذكار: مرة بالصوت + تذكير صغير واحد بعدها"
     ]
   ],
   "voices": {},
