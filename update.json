@@ -1,36 +1,32 @@
 {
   "versionCode": 230,
-  "versionName": "2.3.3",
+  "versionName": "2.3.4",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/Noor-2.3.0.apk",
   "apkSha256": "824d2a7c149f30e729d022121a6d1ddde3d7b0325472e5e569eb1ab6e1c5abaf",
-  "notes": "تقاريري من جوجل درايف، أكلك النهارده مرتبط بتمرينك، أذكار وحكم بأقسام، مهام أحلى، ونغمات هادية",
+  "notes": "لون زمرد ورملي و٧ ألوان في الإعدادات، صفحة رئيسية جديدة، الحكم بأقسام، و٣٩ كتاب جديد",
   "web": {
-    "build": 233,
-    "version": "2.3.3",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.3/noor-web-2.3.3.zip",
-    "sha256": "a7c1f2a39da0b9000cf3b158b0f94c46b32fc4a2297a0f8b1d08686b91b93bf3",
+    "build": 234,
+    "version": "2.3.4",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.4/noor-web-2.3.4.zip",
+    "sha256": "e6ac646d0b73cbb41a7d0e5febe1e8d4ffe57c0d1db94307fa7785766d18c1a8",
     "minNative": 230
   },
   "whatsNew": [
     [
-      "📑",
-      "تقاريري: تقارير ATLAS من درايف"
+      "🎨",
+      "لون زمرّد ورملي + ٧ ألوان في الإعدادات"
     ],
     [
-      "🍳",
-      "أكلك النهارده مرتبط بتمرينك"
+      "🏠",
+      "صفحة رئيسية أحلى"
     ],
     [
-      "📿",
-      "الأذكار والحكم أقسام بتفتح وتقفل + أدعية"
+      "📜",
+      "الحكم بأقسام والجديد فوق"
     ],
     [
-      "✅",
-      "مهام أحلى"
-    ],
-    [
-      "🎵",
-      "نغمات إسلامية هادية"
+      "📚",
+      "٣٩ كتاب إدارة وريادة وعلم نفس"
     ]
   ],
   "voices": {}
