@@ -1,32 +1,24 @@
 {
   "versionCode": 241,
-  "versionName": "2.4.2",
+  "versionName": "2.4.3",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.1/Noor-2.4.1.apk",
   "apkSha256": "5a20a9c2b1f7edfe422e6189ee8f42cf0d655c9af3b17837b9e65295bfe0500d",
-  "notes": "لوحة دلوقتي، تذكير المية، علّم صلاتك، والتهليل ١٠٠ مرة",
+  "notes": "أول دفعة من الصوت المصري، والصفحة الرئيسية أخف",
   "web": {
-    "build": 242,
-    "version": "2.4.2",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.2/noor-web-2.4.2.zip",
-    "sha256": "5cf526a96127116e7c1490feb9bbba43ca720112c0c450ab01cee133d6b537ea",
+    "build": 243,
+    "version": "2.4.3",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.3/noor-web-2.4.3.zip",
+    "sha256": "bcd1890315ad6fe36c95ed4af56f1f9b687144c9193b16e2fccc5aa612cb8a75",
     "minNative": 241
   },
   "whatsNew": [
     [
-      "✨",
-      "لوحة «دلوقتي»: خطوة واحدة في كل مرة"
+      "🎙️",
+      "أول دفعة من الصوت المصري (عربي بس)"
     ],
     [
-      "💧",
-      "تذكير المية من ٩ لـ١٠"
-    ],
-    [
-      "🕌",
-      "علّم صلاتك بعد الأذان"
-    ],
-    [
-      "📿",
-      "التهليل ١٠٠ مرة صباح ومساء"
+      "🏠",
+      "الصفحة الرئيسية أخف وأوضح"
     ]
   ],
   "voices": {},
