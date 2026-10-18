@@ -1,24 +1,28 @@
 {
-  "versionCode": 250,
-  "versionName": "2.5.2",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.0/Noor-2.5.0.apk",
-  "apkSha256": "a9a793aee4c88a8b09a7ab7407e499a1ac7f9067ad89ec6037868e672ade6444",
-  "notes": "تقاريري بفولدرات زي جوجل درايف وصور الملفات، وربط أسهل",
+  "versionCode": 260,
+  "versionName": "2.6.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.0/Noor-2.6.0.apk",
+  "apkSha256": "8479e17d4eb56c7736f3e7e4598f5f109f866134fe69bd7450ffb47d1d514cdd",
+  "notes": "التنبيهات في الدقيقة بالظبط، الفجر بصوت حتى لو صامت، وتذكير الذكر كل ١٠ دقايق",
   "web": {
-    "build": 252,
-    "version": "2.5.2",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.2/noor-web-2.5.2.zip",
-    "sha256": "4071bcd8a98bfa03b4ff81a4c196bf87185fc1d3d7f39f0684ef659c7000320d",
-    "minNative": 250
+    "build": 260,
+    "version": "2.6.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.0/noor-web-2.6.0.zip",
+    "sha256": "e72c85b20ed27fa7a7e91f8a1c392793cb436230137bd3740a54639fb4e3c388",
+    "minNative": 260
   },
   "whatsNew": [
     [
-      "📑",
-      "تقاريري بفولدرات زي جوجل درايف وصور الملفات"
+      "⏰",
+      "التنبيهات في الدقيقة بالظبط حتى والموبايل مقفول"
     ],
     [
-      "🧩",
-      "ربط أسهل بخطوتين"
+      "🌅",
+      "الفجر بصوت حتى لو صامت أو عدم إزعاج"
+    ],
+    [
+      "🤍",
+      "تذكير الذكر كل ١٠/١٥/٣٠ دقيقة ومتباعد"
     ]
   ],
   "voices": {},
