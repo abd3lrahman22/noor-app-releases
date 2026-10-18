@@ -1,20 +1,32 @@
 {
   "versionCode": 241,
-  "versionName": "2.4.1",
+  "versionName": "2.4.2",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.1/Noor-2.4.1.apk",
   "apkSha256": "5a20a9c2b1f7edfe422e6189ee8f42cf0d655c9af3b17837b9e65295bfe0500d",
-  "notes": "أيقونة النون البسيطة، وبتتغير مع لون التطبيق",
+  "notes": "لوحة دلوقتي، تذكير المية، علّم صلاتك، والتهليل ١٠٠ مرة",
   "web": {
-    "build": 241,
-    "version": "2.4.1",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.1/noor-web-2.4.1.zip",
-    "sha256": "7bf191265efbcef252a73b9c568dc189598587d5b3fc24b5a4ca0f6774882c91",
+    "build": 242,
+    "version": "2.4.2",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.4.2/noor-web-2.4.2.zip",
+    "sha256": "5cf526a96127116e7c1490feb9bbba43ca720112c0c450ab01cee133d6b537ea",
     "minNative": 241
   },
   "whatsNew": [
     [
-      "🎨",
-      "أيقونة النون البسيطة بتتغير مع لون التطبيق"
+      "✨",
+      "لوحة «دلوقتي»: خطوة واحدة في كل مرة"
+    ],
+    [
+      "💧",
+      "تذكير المية من ٩ لـ١٠"
+    ],
+    [
+      "🕌",
+      "علّم صلاتك بعد الأذان"
+    ],
+    [
+      "📿",
+      "التهليل ١٠٠ مرة صباح ومساء"
     ]
   ],
   "voices": {},
