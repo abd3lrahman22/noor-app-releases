@@ -1,20 +1,24 @@
 {
   "versionCode": 250,
-  "versionName": "2.5.1",
+  "versionName": "2.5.2",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.0/Noor-2.5.0.apk",
   "apkSha256": "a9a793aee4c88a8b09a7ab7407e499a1ac7f9067ad89ec6037868e672ade6444",
-  "notes": "تذكير الأذكار أهدى: مرة بالصوت وتذكير صغير واحد بعدها",
+  "notes": "تقاريري بفولدرات زي جوجل درايف وصور الملفات، وربط أسهل",
   "web": {
-    "build": 251,
-    "version": "2.5.1",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.1/noor-web-2.5.1.zip",
-    "sha256": "e5338079135ab404d7945b87eb6c3d92e3af3ef3894ed8ca0bfe6d1eff78d1b8",
+    "build": 252,
+    "version": "2.5.2",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.5.2/noor-web-2.5.2.zip",
+    "sha256": "4071bcd8a98bfa03b4ff81a4c196bf87185fc1d3d7f39f0684ef659c7000320d",
     "minNative": 250
   },
   "whatsNew": [
     [
-      "☀️",
-      "تذكير الأذكار: مرة بالصوت + تذكير صغير واحد بعدها"
+      "📑",
+      "تقاريري بفولدرات زي جوجل درايف وصور الملفات"
+    ],
+    [
+      "🧩",
+      "ربط أسهل بخطوتين"
     ]
   ],
   "voices": {},
