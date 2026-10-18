@@ -1,40 +1,28 @@
 {
   "versionCode": 230,
-  "versionName": "2.3.0",
+  "versionName": "2.3.1",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/Noor-2.3.0.apk",
   "apkSha256": "824d2a7c149f30e729d022121a6d1ddde3d7b0325472e5e569eb1ab6e1c5abaf",
-  "notes": "تلاوة متواصلة، الشريط عداد سرعة، نغمات راقية، +٦٠٠ حكمة بتزيد يوميًا، ٥ دروس كل يوم، مساج الفروة بالصور",
+  "notes": "سبحة أجمل بهدف بيكبر لوحده واحتفال، مدرب بيشجعك في التمرين، وشلنا الصوت الإنجليزي من مساج الفروة",
   "web": {
-    "build": 230,
-    "version": "2.3.0",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/noor-web-2.3.0.zip",
-    "sha256": "8d25925395a4651b2e9bc3773de19fef71713cf3788518b28fa098c2c526a283",
+    "build": 231,
+    "version": "2.3.1",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.1/noor-web-2.3.1.zip",
+    "sha256": "c98fe4e3a274e83ccb1e99d5f48e4b2416829a95725fb6cff26bd81e51317832",
     "minNative": 230
   },
   "whatsNew": [
     [
-      "📖",
-      "تلاوة متواصلة + الشريط الأصفر عداد سرعة"
+      "📿",
+      "السبحة: الهدف بيكبر لوحده + احتفال"
     ],
     [
-      "🔔",
-      "٨ نغمات راقية تختار منها"
+      "💪",
+      "مدرب بيشجّعك في التمرين"
     ],
     [
-      "📜",
-      "أكتر من ٦٠٠ حكمة بتزيد يوميًا + قلب ونسخ"
-    ],
-    [
-      "🧠",
-      "٥ دروس جديدة كل يوم"
-    ],
-    [
-      "💆",
-      "مساج الفروة بالصور"
-    ],
-    [
-      "🎙️",
-      "الأصوات المصرية الجديدة جاية في تحديث صغير"
+      "🔇",
+      "اتشال الصوت الإنجليزي من مساج الفروة"
     ]
   ],
   "voices": {}
