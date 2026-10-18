@@ -1,24 +1,36 @@
 {
   "versionCode": 230,
-  "versionName": "2.3.2",
+  "versionName": "2.3.3",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/Noor-2.3.0.apk",
   "apkSha256": "824d2a7c149f30e729d022121a6d1ddde3d7b0325472e5e569eb1ab6e1c5abaf",
-  "notes": "دورة تمرين أريح (تتفرج ثم تتمرن ثم راحة)، وكلمة تحفيز مختلفة عند كل هدف في السبحة",
+  "notes": "تقاريري من جوجل درايف، أكلك النهارده مرتبط بتمرينك، أذكار وحكم بأقسام، مهام أحلى، ونغمات هادية",
   "web": {
-    "build": 232,
-    "version": "2.3.2",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.2/noor-web-2.3.2.zip",
-    "sha256": "8169b2edc9c6df5b2011303ac306ae1d0c14363378350a6874e58af59b01ad6c",
+    "build": 233,
+    "version": "2.3.3",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.3/noor-web-2.3.3.zip",
+    "sha256": "a7c1f2a39da0b9000cf3b158b0f94c46b32fc4a2297a0f8b1d08686b91b93bf3",
     "minNative": 230
   },
   "whatsNew": [
     [
-      "🏋️",
-      "تتفرج على الحركة الأول، وبعدها تمرين، وبعدها راحة أطول"
+      "📑",
+      "تقاريري: تقارير ATLAS من درايف"
+    ],
+    [
+      "🍳",
+      "أكلك النهارده مرتبط بتمرينك"
     ],
     [
       "📿",
-      "كلمة مختلفة تحفّزك عند كل هدف في السبحة"
+      "الأذكار والحكم أقسام بتفتح وتقفل + أدعية"
+    ],
+    [
+      "✅",
+      "مهام أحلى"
+    ],
+    [
+      "🎵",
+      "نغمات إسلامية هادية"
     ]
   ],
   "voices": {}
