@@ -1,28 +1,24 @@
 {
   "versionCode": 230,
-  "versionName": "2.3.1",
+  "versionName": "2.3.2",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.0/Noor-2.3.0.apk",
   "apkSha256": "824d2a7c149f30e729d022121a6d1ddde3d7b0325472e5e569eb1ab6e1c5abaf",
-  "notes": "سبحة أجمل بهدف بيكبر لوحده واحتفال، مدرب بيشجعك في التمرين، وشلنا الصوت الإنجليزي من مساج الفروة",
+  "notes": "دورة تمرين أريح (تتفرج ثم تتمرن ثم راحة)، وكلمة تحفيز مختلفة عند كل هدف في السبحة",
   "web": {
-    "build": 231,
-    "version": "2.3.1",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.1/noor-web-2.3.1.zip",
-    "sha256": "c98fe4e3a274e83ccb1e99d5f48e4b2416829a95725fb6cff26bd81e51317832",
+    "build": 232,
+    "version": "2.3.2",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.3.2/noor-web-2.3.2.zip",
+    "sha256": "8169b2edc9c6df5b2011303ac306ae1d0c14363378350a6874e58af59b01ad6c",
     "minNative": 230
   },
   "whatsNew": [
     [
+      "🏋️",
+      "تتفرج على الحركة الأول، وبعدها تمرين، وبعدها راحة أطول"
+    ],
+    [
       "📿",
-      "السبحة: الهدف بيكبر لوحده + احتفال"
-    ],
-    [
-      "💪",
-      "مدرب بيشجّعك في التمرين"
-    ],
-    [
-      "🔇",
-      "اتشال الصوت الإنجليزي من مساج الفروة"
+      "كلمة مختلفة تحفّزك عند كل هدف في السبحة"
     ]
   ],
   "voices": {}
