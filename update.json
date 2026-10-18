@@ -1,28 +1,20 @@
 {
-  "versionCode": 260,
-  "versionName": "2.6.0",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.0/Noor-2.6.0.apk",
-  "apkSha256": "8479e17d4eb56c7736f3e7e4598f5f109f866134fe69bd7450ffb47d1d514cdd",
-  "notes": "التنبيهات في الدقيقة بالظبط، الفجر بصوت حتى لو صامت، وتذكير الذكر كل ١٠ دقايق",
+  "versionCode": 261,
+  "versionName": "2.6.1",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.1/Noor-2.6.1.apk",
+  "apkSha256": "c73629f52cf8e15c7c227f2c8f48edb9c3f1cbcf431cbdbed54f0212af651d23",
+  "notes": "تذكير الذكر بيكمّل طول اليوم في ميعاده بالظبط",
   "web": {
-    "build": 260,
-    "version": "2.6.0",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.0/noor-web-2.6.0.zip",
-    "sha256": "e72c85b20ed27fa7a7e91f8a1c392793cb436230137bd3740a54639fb4e3c388",
-    "minNative": 260
+    "build": 261,
+    "version": "2.6.1",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.1/noor-web-2.6.1.zip",
+    "sha256": "40bc9b1b2c5e9d89141760d6c2e0a006876ce88429b2923e47c404c6cbf781d1",
+    "minNative": 261
   },
   "whatsNew": [
     [
-      "⏰",
-      "التنبيهات في الدقيقة بالظبط حتى والموبايل مقفول"
-    ],
-    [
-      "🌅",
-      "الفجر بصوت حتى لو صامت أو عدم إزعاج"
-    ],
-    [
       "🤍",
-      "تذكير الذكر كل ١٠/١٥/٣٠ دقيقة ومتباعد"
+      "تذكير الذكر بيكمّل طول اليوم في ميعاده بالظبط"
     ]
   ],
   "voices": {},
