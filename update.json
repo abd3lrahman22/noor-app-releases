@@ -1,28 +1,20 @@
 {
   "versionCode": 262,
-  "versionName": "2.6.2",
+  "versionName": "2.6.3",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.2/Noor-2.6.2.apk",
   "apkSha256": "c0ab6dbd92788bb6ac5a228ef919553a193a962eb28da6434c26541376623e51",
-  "notes": "الأذكار بالتبادل، اسمك رجع في الإشعارات والصوت، والتطبيق أخف",
+  "notes": "الصوت المصري كامل — كل جمل التطبيق بقت بصوت حقيقي",
   "web": {
-    "build": 262,
-    "version": "2.6.2",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.2/noor-web-2.6.2.zip",
-    "sha256": "21a6dc43c258a13ec1ba26ab6b3d7816485fc42a6227c5a498b249bb0c24a5a8",
+    "build": 263,
+    "version": "2.6.3",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.3/noor-web-2.6.3.zip",
+    "sha256": "62004a436bdcb534ba63af1bab0cb57607acf318b7df3ffa2471f8adf4a7e01e",
     "minNative": 262
   },
   "whatsNew": [
     [
-      "🔁",
-      "الأذكار بالتبادل: اختار مين يدخل وكل قد إيه"
-    ],
-    [
-      "👋",
-      "اسمك رجع في الإشعارات والصوت"
-    ],
-    [
-      "🪶",
-      "التطبيق أخف بحوالي ٣ ميجا"
+      "🎙️",
+      "الصوت المصري كامل: كل جمل التطبيق بصوت حقيقي"
     ]
   ],
   "voices": {},
