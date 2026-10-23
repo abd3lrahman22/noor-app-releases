@@ -1,20 +1,32 @@
 {
-  "versionCode": 262,
-  "versionName": "2.6.3",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.2/Noor-2.6.2.apk",
-  "apkSha256": "c0ab6dbd92788bb6ac5a228ef919553a193a962eb28da6434c26541376623e51",
-  "notes": "الصوت المصري كامل — كل جمل التطبيق بقت بصوت حقيقي",
+  "versionCode": 270,
+  "versionName": "2.7.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.0/Noor-2.7.0.apk",
+  "apkSha256": "88094b0ef4a66fd02e6e26013db38b2f8e93f127cdec9bc96783161b927b2aca",
+  "notes": "البحث في المصحف في نفس المكان، الذكر بيتقال بالصوت من غير هزاز، حكم أكتر كل يوم، والمصحف أسرع",
   "web": {
-    "build": 263,
-    "version": "2.6.3",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.6.3/noor-web-2.6.3.zip",
-    "sha256": "62004a436bdcb534ba63af1bab0cb57607acf318b7df3ffa2471f8adf4a7e01e",
-    "minNative": 262
+    "build": 270,
+    "version": "2.7.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.0/noor-web-2.7.0.zip",
+    "sha256": "8c34dda7380d0207239d9e9c58647544a43d19bd464c737ac0e617a619e17aaa",
+    "minNative": 270
   },
   "whatsNew": [
     [
-      "🎙️",
-      "الصوت المصري كامل: كل جمل التطبيق بصوت حقيقي"
+      "🔎",
+      "البحث في المصحف في نفس المكان"
+    ],
+    [
+      "🔊",
+      "الذكر بيتقال بالصوت من غير هزاز"
+    ],
+    [
+      "📚",
+      "٢٠ حكمة جديدة في كل قسم كل يوم"
+    ],
+    [
+      "⚡",
+      "المصحف أسرع وأخف"
     ]
   ],
   "voices": {},
