@@ -1,15 +1,15 @@
 {
-  "versionCode": 270,
-  "versionName": "2.7.0",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.0/Noor-2.7.0.apk",
-  "apkSha256": "88094b0ef4a66fd02e6e26013db38b2f8e93f127cdec9bc96783161b927b2aca",
-  "notes": "البحث في المصحف في نفس المكان، الذكر بيتقال بالصوت من غير هزاز، حكم أكتر كل يوم، والمصحف أسرع",
+  "versionCode": 271,
+  "versionName": "2.7.1",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.1/Noor-2.7.1.apk",
+  "apkSha256": "1c69eef9c54cf52bd2de24a8a397395e642a865e8045800195b2d69c12b572fb",
+  "notes": "البحث في المصحف في نفس المكان، الذكر بيتقال بالصوت من غير هزاز، حكم أكتر كل يوم، والمصحف أسرع — وحجم أخف",
   "web": {
-    "build": 270,
-    "version": "2.7.0",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.0/noor-web-2.7.0.zip",
-    "sha256": "8c34dda7380d0207239d9e9c58647544a43d19bd464c737ac0e617a619e17aaa",
-    "minNative": 270
+    "build": 271,
+    "version": "2.7.1",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.1/noor-web-2.7.1.zip",
+    "sha256": "cc689e9f5115735b1646fd49d2eedc89ddb097c30fd02aefb085d45a7ec907a6",
+    "minNative": 271
   },
   "whatsNew": [
     [
