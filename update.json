@@ -1,32 +1,24 @@
 {
   "versionCode": 271,
-  "versionName": "2.7.2",
+  "versionName": "2.7.3",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.1/Noor-2.7.1.apk",
   "apkSha256": "1c69eef9c54cf52bd2de24a8a397395e642a865e8045800195b2d69c12b572fb",
-  "notes": "صوت الدروس بقى تنزيل اختياري",
+  "notes": "مكتبة حكم جوه التطبيق: ١٦٠٠٠ في ريادة الأعمال (٤٠ كل يوم) و٢٠٠٠ حديث صحيح (٢٠ كل يوم)",
   "web": {
-    "build": 272,
-    "version": "2.7.2",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.2/noor-web-2.7.2.zip",
-    "sha256": "c61f6e7697a434594bba4e6c240eda44ee3a0d0bd26d18b735eab9d419c0f5c8",
+    "build": 273,
+    "version": "2.7.3",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.3/noor-web-2.7.3.zip",
+    "sha256": "a12271a40d4b1f3e0fcf215b5febdd34a6ad98a076bd5ef8644535bc940041b9",
     "minNative": 271
   },
   "whatsNew": [
     [
-      "🔎",
-      "البحث في المصحف في نفس المكان"
-    ],
-    [
-      "🔊",
-      "الذكر بيتقال بالصوت من غير هزاز"
-    ],
-    [
       "📚",
-      "٢٠ حكمة جديدة في كل قسم كل يوم"
+      "١٦,٠٠٠ حكمة في ريادة الأعمال — ٤٠ كل يوم"
     ],
     [
-      "⚡",
-      "المصحف أسرع وأخف"
+      "🕌",
+      "٢٠٠٠ حديث صحيح — ٢٠ كل يوم"
     ]
   ],
   "voices": {},
