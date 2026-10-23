@@ -1,15 +1,15 @@
 {
-  "versionCode": 271,
-  "versionName": "2.7.3",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.1/Noor-2.7.1.apk",
-  "apkSha256": "1c69eef9c54cf52bd2de24a8a397395e642a865e8045800195b2d69c12b572fb",
+  "versionCode": 274,
+  "versionName": "2.7.4",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.4/Noor-2.7.4.apk",
+  "apkSha256": "8b921a311f5f1899befdbf5db1a4a553d535e3195c8dbed60fc91d4f5fc8765e",
   "notes": "مكتبة حكم جوه التطبيق: ١٦٠٠٠ في ريادة الأعمال (٤٠ كل يوم) و٢٠٠٠ حديث صحيح (٢٠ كل يوم)",
   "web": {
-    "build": 273,
-    "version": "2.7.3",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.3/noor-web-2.7.3.zip",
-    "sha256": "a12271a40d4b1f3e0fcf215b5febdd34a6ad98a076bd5ef8644535bc940041b9",
-    "minNative": 271
+    "build": 274,
+    "version": "2.7.4",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.4/noor-web-2.7.4.zip",
+    "sha256": "0b023c7bb719c9938fd1709baa6475dd793354a2307ef4d3bb365ad1adccc3c6",
+    "minNative": 274
   },
   "whatsNew": [
     [
