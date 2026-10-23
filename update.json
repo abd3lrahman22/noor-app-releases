@@ -1,14 +1,14 @@
 {
   "versionCode": 271,
-  "versionName": "2.7.1",
+  "versionName": "2.7.2",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.1/Noor-2.7.1.apk",
   "apkSha256": "1c69eef9c54cf52bd2de24a8a397395e642a865e8045800195b2d69c12b572fb",
-  "notes": "البحث في المصحف في نفس المكان، الذكر بيتقال بالصوت من غير هزاز، حكم أكتر كل يوم، والمصحف أسرع — وحجم أخف",
+  "notes": "صوت الدروس بقى تنزيل اختياري",
   "web": {
-    "build": 271,
-    "version": "2.7.1",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.1/noor-web-2.7.1.zip",
-    "sha256": "cc689e9f5115735b1646fd49d2eedc89ddb097c30fd02aefb085d45a7ec907a6",
+    "build": 272,
+    "version": "2.7.2",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.2/noor-web-2.7.2.zip",
+    "sha256": "c61f6e7697a434594bba4e6c240eda44ee3a0d0bd26d18b735eab9d419c0f5c8",
     "minNative": 271
   },
   "whatsNew": [
