@@ -1,24 +1,24 @@
 {
   "versionCode": 274,
-  "versionName": "2.7.4",
+  "versionName": "2.7.5",
   "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.4/Noor-2.7.4.apk",
   "apkSha256": "8b921a311f5f1899befdbf5db1a4a553d535e3195c8dbed60fc91d4f5fc8765e",
-  "notes": "مكتبة حكم جوه التطبيق: ١٦٠٠٠ في ريادة الأعمال (٤٠ كل يوم) و٢٠٠٠ حديث صحيح (٢٠ كل يوم)",
+  "notes": "نغمة قصيرة قبل الذكر، ونور مبقاش بينادي عليك باسمك",
   "web": {
-    "build": 274,
-    "version": "2.7.4",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.4/noor-web-2.7.4.zip",
-    "sha256": "0b023c7bb719c9938fd1709baa6475dd793354a2307ef4d3bb365ad1adccc3c6",
+    "build": 275,
+    "version": "2.7.5",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.5/noor-web-2.7.5.zip",
+    "sha256": "ade495aaedc7b0bf09222e41577ac7453613c90e0ec8b7c06452d2d19fbf6ecb",
     "minNative": 274
   },
   "whatsNew": [
     [
-      "📚",
-      "١٦,٠٠٠ حكمة في ريادة الأعمال — ٤٠ كل يوم"
+      "🎵",
+      "نغمة قصيرة قبل الذكر"
     ],
     [
-      "🕌",
-      "٢٠٠٠ حديث صحيح — ٢٠ كل يوم"
+      "🤫",
+      "نور مبقاش بينادي عليك باسمك"
     ]
   ],
   "voices": {},
