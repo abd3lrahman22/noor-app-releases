@@ -1,24 +1,40 @@
 {
-  "versionCode": 274,
-  "versionName": "2.7.5",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.4/Noor-2.7.4.apk",
-  "apkSha256": "8b921a311f5f1899befdbf5db1a4a553d535e3195c8dbed60fc91d4f5fc8765e",
-  "notes": "نغمة قصيرة قبل الذكر، ونور مبقاش بينادي عليك باسمك",
+  "versionCode": 280,
+  "versionName": "2.8.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.0/Noor-2.8.0.apk",
+  "apkSha256": "78b38dc330270d90ef42912a474d074d695623c3d2c629736ddd1366b8d3a417",
+  "notes": "نور بقى أبسط: الورد لوحده، البحث جوه المصحف، الصوت بيوطى بعد الأذان، سبحة وتقارير وأيقونة جديدة",
   "web": {
-    "build": 275,
-    "version": "2.7.5",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.7.5/noor-web-2.7.5.zip",
-    "sha256": "ade495aaedc7b0bf09222e41577ac7453613c90e0ec8b7c06452d2d19fbf6ecb",
-    "minNative": 274
+    "build": 280,
+    "version": "2.8.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.0/noor-web-2.8.0.zip",
+    "sha256": "fd5bf349f259888a13dce4a486ef972a398706f809d33bb9c08649bbee1ff27f",
+    "minNative": 280
   },
   "whatsNew": [
     [
-      "🎵",
-      "نغمة قصيرة قبل الذكر"
+      "📖",
+      "وردك لوحده والقراءة الحرة لوحدها"
     ],
     [
-      "🤫",
-      "نور مبقاش بينادي عليك باسمك"
+      "🔎",
+      "البحث جوه المصحف المفتوح"
+    ],
+    [
+      "🕌",
+      "بعد الأذان الصوت بيوطى ٢٠٪ عشر دقايق بدل الصامت"
+    ],
+    [
+      "📿",
+      "سبحة جديدة"
+    ],
+    [
+      "📄",
+      "تقارير بشكل أحلى وصور للملفات"
+    ],
+    [
+      "✨",
+      "أيقونة جديدة وتطبيق أبسط"
     ]
   ],
   "voices": {},
