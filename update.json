@@ -1,40 +1,36 @@
 {
-  "versionCode": 280,
-  "versionName": "2.8.0",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.0/Noor-2.8.0.apk",
-  "apkSha256": "78b38dc330270d90ef42912a474d074d695623c3d2c629736ddd1366b8d3a417",
-  "notes": "نور بقى أبسط: الورد لوحده، البحث جوه المصحف، الصوت بيوطى بعد الأذان، سبحة وتقارير وأيقونة جديدة",
+  "versionCode": 281,
+  "versionName": "2.8.1",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.1/Noor-2.8.1.apk",
+  "apkSha256": "d46c8de0c450bd6c34cbfefe5e9f5b041b57b9697b59fdf54f37330891993cc7",
+  "notes": "شكل جديد عصري بلون واحد ولمسة إسلامية، أيقونة ن بشكل هلال، وردك جنب صلاتك وتسبيحك، أصوات شيوخ، وهمهمة قبل التنبيه",
   "web": {
-    "build": 280,
-    "version": "2.8.0",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.0/noor-web-2.8.0.zip",
-    "sha256": "fd5bf349f259888a13dce4a486ef972a398706f809d33bb9c08649bbee1ff27f",
-    "minNative": 280
+    "build": 281,
+    "version": "2.8.1",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.1/noor-web-2.8.1.zip",
+    "sha256": "d394728d1c40ee2176b49f144e6de2ed9b7e6e4c74544af786a558d7dbfe8f6b",
+    "minNative": 281
   },
   "whatsNew": [
     [
-      "📖",
-      "وردك لوحده والقراءة الحرة لوحدها"
+      "🎨",
+      "شكل جديد بلون واحد وأيقونة بسيطة"
     ],
     [
-      "🔎",
-      "البحث جوه المصحف المفتوح"
+      "📖",
+      "وردك جنب صلاتك وتسبيحك في الرئيسية"
     ],
     [
       "🕌",
-      "بعد الأذان الصوت بيوطى ٢٠٪ عشر دقايق بدل الصامت"
+      "أصوات شيوخ للتنبيهات"
     ],
     [
-      "📿",
-      "سبحة جديدة"
-    ],
-    [
-      "📄",
-      "تقارير بشكل أحلى وصور للملفات"
+      "🎵",
+      "همهمة هادية قبل التنبيه"
     ],
     [
       "✨",
-      "أيقونة جديدة وتطبيق أبسط"
+      "الحِكَم بشكل أحلى"
     ]
   ],
   "voices": {},
