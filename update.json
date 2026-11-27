@@ -21,8 +21,6 @@
       "الصوت بيرجع لوحده بعد ١٠ دقايق مهما حصل"
     ]
   ],
-  "voices": {
-    "sheikh_masri": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.2/voice-sheikh_masri.zip"
-  },
+  "voices": {},
   "voiceList": []
 }
