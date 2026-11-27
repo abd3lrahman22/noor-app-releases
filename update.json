@@ -1,38 +1,28 @@
 {
-  "versionCode": 281,
-  "versionName": "2.8.1",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.1/Noor-2.8.1.apk",
-  "apkSha256": "d46c8de0c450bd6c34cbfefe5e9f5b041b57b9697b59fdf54f37330891993cc7",
-  "notes": "شكل جديد عصري بلون واحد ولمسة إسلامية، أيقونة ن بشكل هلال، وردك جنب صلاتك وتسبيحك، أصوات شيوخ، وهمهمة قبل التنبيه",
+  "versionCode": 282,
+  "versionName": "2.8.2",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.2/Noor-2.8.2.apk",
+  "apkSha256": "70e1401fe366701fa7459bb172ec640a7400dd4298ed54972d0073388ed1734a",
+  "notes": "نغمات أذكار حقيقية بصوت إنسان قبل التنبيه، وخلوة الصلاة أمتن: الصوت بيرجع لوحده بعد ١٠ دقايق مهما حصل",
   "web": {
-    "build": 281,
-    "version": "2.8.1",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.1/noor-web-2.8.1.zip",
-    "sha256": "d394728d1c40ee2176b49f144e6de2ed9b7e6e4c74544af786a558d7dbfe8f6b",
-    "minNative": 281
+    "build": 282,
+    "version": "2.8.2",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.2/noor-web-2.8.2.zip",
+    "sha256": "6be699c7222d69cc5cafbf0cd4d2109bf7ae49cbd7664ddb171467f73c9d99c8",
+    "minNative": 282
   },
   "whatsNew": [
     [
-      "🎨",
-      "شكل جديد بلون واحد وأيقونة بسيطة"
-    ],
-    [
-      "📖",
-      "وردك جنب صلاتك وتسبيحك في الرئيسية"
+      "📿",
+      "نغمات أذكار حقيقية بصوت إنسان قبل التنبيه"
     ],
     [
       "🕌",
-      "أصوات شيوخ للتنبيهات"
-    ],
-    [
-      "🎵",
-      "همهمة هادية قبل التنبيه"
-    ],
-    [
-      "✨",
-      "الحِكَم بشكل أحلى"
+      "الصوت بيرجع لوحده بعد ١٠ دقايق مهما حصل"
     ]
   ],
-  "voices": {},
+  "voices": {
+    "sheikh_masri": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.2/voice-sheikh_masri.zip"
+  },
   "voiceList": []
 }
