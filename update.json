@@ -1,24 +1,52 @@
 {
-  "versionCode": 282,
-  "versionName": "2.8.2",
-  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.2/Noor-2.8.2.apk",
-  "apkSha256": "70e1401fe366701fa7459bb172ec640a7400dd4298ed54972d0073388ed1734a",
-  "notes": "نغمات أذكار حقيقية بصوت إنسان قبل التنبيه، وخلوة الصلاة أمتن: الصوت بيرجع لوحده بعد ١٠ دقايق مهما حصل",
+  "versionCode": 290,
+  "versionName": "2.9.0",
+  "apk": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.9.0/Noor-2.9.0.apk",
+  "apkSha256": "3e609157abbaac26cf623c2e98decc1b5316b2c7fb1c4aa91a88c8a71285d201",
+  "notes": "نور بقى «نور الإيمان»: لون أزرق واحد، التقويم الهجري، متابعة الصلاة والصيام، رمضان، أسماء الله الحسنى، الزكاة، أذكار أكتر، وأسرع",
   "web": {
-    "build": 282,
-    "version": "2.8.2",
-    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.8.2/noor-web-2.8.2.zip",
-    "sha256": "6be699c7222d69cc5cafbf0cd4d2109bf7ae49cbd7664ddb171467f73c9d99c8",
-    "minNative": 282
+    "build": 290,
+    "version": "2.9.0",
+    "zip": "https://github.com/abd3lrahman22/noor-app-releases/releases/download/v2.9.0/noor-web-2.9.0.zip",
+    "sha256": "a10424c270f5f0cdee59cc7e176816b651699ff1d382fb365222962c12412a9e",
+    "minNative": 290
   },
   "whatsNew": [
     [
-      "📿",
-      "نغمات أذكار حقيقية بصوت إنسان قبل التنبيه"
+      "💙",
+      "نور الإيمان: اسم جديد ولون أزرق"
     ],
     [
-      "🕌",
-      "الصوت بيرجع لوحده بعد ١٠ دقايق مهما حصل"
+      "📅",
+      "التقويم الهجري والمناسبات"
+    ],
+    [
+      "✅",
+      "متابعة الصلاة والصيام"
+    ],
+    [
+      "🌙",
+      "رمضان والإمساكية"
+    ],
+    [
+      "✨",
+      "أسماء الله الحسنى والزكاة والمساجد"
+    ],
+    [
+      "📿",
+      "أذكار أكتر"
+    ],
+    [
+      "🎨",
+      "شكل أهدى وأوضح وخط عصري"
+    ],
+    [
+      "🔔",
+      "التنبيه بيتقال علطول من غير نغمة"
+    ],
+    [
+      "⚡",
+      "أسرع وأنعم"
     ]
   ],
   "voices": {},
